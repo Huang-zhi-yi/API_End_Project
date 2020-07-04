@@ -55,30 +55,40 @@
    ## 四. API使用及其说明
    ### (1) 需求列表及使用的API介绍、优先级
    ![使用的API介绍](https://www.lucaszy.com/wp-content/uploads/2020/07/1593266633064-ce7126c712c55bcf-1024x116.png)
-   ### (2)API使用比较分析
-   ### (3)API的运用
-   ### (4)API使用风险评估
+   ### (2)人工智能概率性与用户痛点
+   
+   ### (3)API使用比较分析
+   ### (4)API的运用
+   ### (5)API使用风险评估
      1. 智能聊天机器人可能会出现无法理解用户的表达：需要不断完善及补充语言库，不断强化机器学习，提高机器人理解力
      2. 百度对话情绪识别会有中性的返回值，对于这种涉及的范围广的返回项无法精准判断用户的真实情绪，
      因此导致该选项的美食推荐不准确。解决方案：加入时间推荐等尽可能覆盖多种推荐，以达到满足用户需求
      3. 推荐餐厅类别不是用户所喜欢的：设置下拉选择框让用户自己选择餐厅类别
    ## 五.产品功能介绍
       1. 功能介绍(结构图)
-          ![结构图]()
+          ![结构图](https://www.lucaszy.com/wp-content/uploads/2020/07/%E5%8A%9F%E8%83%BD%E5%9B%BE-1-1024x427.png)
       2. 数据流程介绍(数据流程图)
-          ![数据流程图]()
+          ![数据流程图](https://www.lucaszy.com/wp-content/uploads/2020/07/%E6%95%B0%E6%8D%AE%E6%B5%81%E7%A8%8B%E5%9B%BE-1024x233.png)
    ## 六.产品竞品分析
    ### (1) 竞品的战略定位
+   ![竞品的战略定位](https://www.lucaszy.com/wp-content/uploads/2020/07/%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90-1024x391.png)
    ### (2) 竞品产品结构图
+   #### 口碑APP
+   ![](https://www.lucaszy.com/wp-content/uploads/2020/07/%E5%8F%A3%E7%A2%91-1024x863.png)
+   #### 大众点评
+   ![](https://www.lucaszy.com/wp-content/uploads/2020/07/%E5%A4%A7%E4%BC%97%E7%82%B9%E8%AF%84%E4%BA%A7%E5%93%81%E7%BB%93%E6%9E%84%E5%9B%BE-1024x787.png)
    ### (3) 竞品比较分析
-	    a. 区别
-	    b. 缺点
+   #### a. 区别
+   	
+   #### b. 缺点
    ## 七.产品未来发展线路构思
    ### (1) 产品迭代过程
+   ![产品迭代过程](https://www.lucaszy.com/wp-content/uploads/2020/07/%E8%BF%AD%E4%BB%A3%E8%BF%87%E7%A8%8B.png)
    ### (2) 产品盈利模式
+   ![产品盈利模式](https://www.lucaszy.com/wp-content/uploads/2020/07/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200704165016.png)
    ## 八.产品原型介绍及交互设计
    ### (1)启动页面
    ### (2)核心页面
    ### (3)主要页面
    ## 九.数据使用及其价值
-
+   ![数据使用及其价值](https://www.lucaszy.com/wp-content/uploads/2020/07/%E6%95%B0%E6%8D%AE%E4%BB%B7%E5%80%BC%E5%8F%8A%E7%94%A8%E9%80%94.png)
