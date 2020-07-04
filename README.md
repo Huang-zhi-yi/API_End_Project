@@ -77,10 +77,6 @@
    ![口碑APP](https://www.lucaszy.com/wp-content/uploads/2020/07/口碑.png)
    #### 大众点评
    ![大众点评](https://www.lucaszy.com/wp-content/uploads/2020/07/大众点评产品结构图.png)
-   ### (3) 竞品比较分析
-   #### a. 区别
-   	
-   #### b. 缺点
    ## 七.产品未来发展线路构思
    ### (1) 产品迭代过程
    ![产品迭代过程](https://www.lucaszy.com/wp-content/uploads/2020/07/%E8%BF%AD%E4%BB%A3%E8%BF%87%E7%A8%8B.png)
