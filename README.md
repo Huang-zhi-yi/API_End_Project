@@ -74,7 +74,7 @@
    ![竞品的战略定位](/api期末/竞品分析.png)
    ### (2) 竞品产品结构图
    #### 口碑APP
-   ![口碑APP](/api期末/口碑.png)
+   ![口碑APP](https://www.lucaszy.com/wp-content/uploads/2020/07/口碑.png)
    #### 大众点评
    ![大众点评](https://www.lucaszy.com/wp-content/uploads/2020/07/%E5%8F%A3%E7%A2%91-1024x863.png)
    ### (3) 竞品比较分析
