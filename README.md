@@ -76,7 +76,7 @@
    #### 口碑APP
    ![口碑APP](https://www.lucaszy.com/wp-content/uploads/2020/07/%E5%8F%A3%E7%A2%91-1024x863.png)
    #### 大众点评
-   ![大众点评](https://www.lucaszy.com/wp-content/uploads/2020/07/%E5%A4%A7%E4%BC%97%E7%82%B9%E8%AF%84%E4%BA%A7%E5%93%81%E7%BB%93%E6%9E%84%E5%9B%BE-1024x787.png)
+   ![大众点评](https://www.lucaszy.com/wp-content/uploads/2020/07/%E5%8F%A3%E7%A2%91-1024x863.png)
    ### (3) 竞品比较分析
    #### a. 区别
    	
