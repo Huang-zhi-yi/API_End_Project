@@ -76,7 +76,7 @@
    #### 口碑APP
    ![口碑APP](/api期末/口碑.png)
    #### 大众点评
-   ![大众点评](/api期末/大众点评产品结构图.png)
+   ![大众点评](https://www.lucaszy.com/wp-content/uploads/2020/07/%E5%8F%A3%E7%A2%91-1024x863.png)
    ### (3) 竞品比较分析
    #### a. 区别
    	
