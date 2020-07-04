@@ -66,9 +66,9 @@
      3. 推荐餐厅类别不是用户所喜欢的：设置下拉选择框让用户自己选择餐厅类别
    ## 五.产品功能介绍
       1. 功能介绍(结构图)
-          ![结构图](https://www.lucaszy.com/wp-content/uploads/2020/07/%E5%8A%9F%E8%83%BD%E5%9B%BE-1-1024x427.png)
+   ![结构图](https://www.lucaszy.com/wp-content/uploads/2020/07/%E5%8A%9F%E8%83%BD%E5%9B%BE-1-1024x427.png)
       2. 数据流程介绍(数据流程图)
-          ![数据流程图](https://www.lucaszy.com/wp-content/uploads/2020/07/%E6%95%B0%E6%8D%AE%E6%B5%81%E7%A8%8B%E5%9B%BE-1024x233.png)
+   ![数据流程图](https://www.lucaszy.com/wp-content/uploads/2020/07/%E6%95%B0%E6%8D%AE%E6%B5%81%E7%A8%8B%E5%9B%BE-1024x233.png)
    ## 六.产品竞品分析
    ### (1) 竞品的战略定位
    ![竞品的战略定位](https://www.lucaszy.com/wp-content/uploads/2020/07/%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90-1024x391.png)
