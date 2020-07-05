@@ -57,7 +57,9 @@
    ![使用的API介绍](https://www.lucaszy.com/wp-content/uploads/2020/07/1593266633064-ce7126c712c55bcf-1024x116.png)
    ### (2)人工智能概率性与用户痛点
    ![人工智能概率性与用户痛点](https://www.lucaszy.com/wp-content/uploads/2020/07/人工智能概率性与用户痛点.png)
-   ### (3)API使用比较分析
+   ### (3)API使用价格
+   ![](https://www.lucaszy.com/wp-content/uploads/2020/07/机器人价格.png)
+   ![](https://www.lucaszy.com/wp-content/uploads/2020/07/百度和高德api.png)
    ### (4)API的运用
    #### 1. 图灵智能聊天机器人API
    
