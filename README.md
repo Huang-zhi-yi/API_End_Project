@@ -62,7 +62,9 @@
    ![百度和高德价格](https://www.lucaszy.com/wp-content/uploads/2020/07/百度和高德api.png)
    ### (4)API的运用
    #### 1. 图灵智能聊天机器人API
-   
+   ##### HTTP方法：POST
+   ##### 请求URL：http://openapi.tuling123.com/openapi/api/v2
+   [API输入输出链接](https://blog.csdn.net/lucaszy/article/details/107146697)
    #### 2. 情绪识别
    ##### 百度AI开放平台-对话情绪识别api
    ##### 接口描述
