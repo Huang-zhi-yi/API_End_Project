@@ -69,12 +69,13 @@
 	可以及时介入人工处理，帮助在有限的人工客服条件下，降低客户流失。
    ##### HTTP方法: POST
    ##### 请求URL: https://aip.baidubce.com/rpc/2.0/nlp/v1/emotion
-   
+   [API输入输出链接](https://blog.csdn.net/lucaszy/article/details/107141785)
    #### 3.周边美食推荐 
    ##### 高德地图开放平台-周边搜索POI
    ##### 接口描述：在用户传入经纬度坐标点附近，在设定的范围内，按照关键字或POI类型搜索
    ##### 请求URL:https://restapi.amap.com/v3/place/around?parameters|
    ##### HTTP方式:GET
+   [API输入输出链接](https://blog.csdn.net/lucaszy/article/details/107142872)
    ### (5)API使用风险评估
      1. 智能聊天机器人可能会出现无法理解用户的表达：需要不断完善及补充语言库，不断强化机器学习，提高机器人理解力
      2. 百度对话情绪识别会有中性的返回值，对于这种涉及的范围广的返回项无法精准判断用户的真实情绪，
