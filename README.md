@@ -109,10 +109,10 @@
    ![启动页](https://www.lucaszy.com/wp-content/uploads/2020/07/1_启动页.png)
    ### (2)核心页面
    ![聊天页面](/臻选美食界面/7_聊天页面.png)
-   ![聊天页面-输入界面](https://www.lucaszy.com/wp-content/uploads/2020/07/3_聊天页面-输入框.png)
-   ![主页](https://www.lucaszy.com/wp-content/uploads/2020/07/6_主页.png)
+   ![聊天页面-输入界面](/臻选美食界面/3_聊天页面-输入框.png)
+   ![主页](/臻选美食界面/6_主页.png)
    ### (3)主要页面
-   ![导航界面](https://www.lucaszy.com/wp-content/uploads/2020/07/4_导航页.png)
+   ![导航界面](/臻选美食界面/4_导航页.png)
    ![我的](https://www.lucaszy.com/wp-content/uploads/2020/07/5_我的.png)	
    ## 九.数据使用及其价值
    ![数据使用及其价值](https://www.lucaszy.com/wp-content/uploads/2020/07/%E6%95%B0%E6%8D%AE%E4%BB%B7%E5%80%BC%E5%8F%8A%E7%94%A8%E9%80%94.png)
