@@ -104,8 +104,15 @@
    ### (2) 产品盈利模式
    ![产品盈利模式](https://www.lucaszy.com/wp-content/uploads/2020/07/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200704165016.png)
    ## 八.产品原型介绍及交互设计
+   [点击这里查看原型交互](https://modao.cc/app/cd9f1d6fb16686fcdd326aadbf3ed87093442458?simulator_type=device&sticky)
    ### (1)启动页面
+   ![启动页](https://www.lucaszy.com/wp-content/uploads/2020/07/1_启动页.png)
    ### (2)核心页面
+   ![聊天页面](https://www.lucaszy.com/wp-content/uploads/2020/07/7_聊天页面.png)
+   ![聊天页面-输入界面](https://www.lucaszy.com/wp-content/uploads/2020/07/3_聊天页面-输入框.png)
+   ![主页](https://www.lucaszy.com/wp-content/uploads/2020/07/6_主页.png)
    ### (3)主要页面
+   ![导航界面](https://www.lucaszy.com/wp-content/uploads/2020/07/4_导航页.png)
+   ![我的](https://www.lucaszy.com/wp-content/uploads/2020/07/5_我的.png)	
    ## 九.数据使用及其价值
    ![数据使用及其价值](https://www.lucaszy.com/wp-content/uploads/2020/07/%E6%95%B0%E6%8D%AE%E4%BB%B7%E5%80%BC%E5%8F%8A%E7%94%A8%E9%80%94.png)
