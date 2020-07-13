@@ -110,7 +110,7 @@
    ### (2)核心页面
    ![聊天页面](https://www.lucaszy.com/wp-content/uploads/2020/07/7_%E8%81%8A%E5%A4%A9%E9%A1%B5%E9%9D%A2-473x1024.png)
    ![聊天页面-输入界面](https://www.lucaszy.com/wp-content/uploads/2020/07/3_%E8%81%8A%E5%A4%A9%E9%A1%B5%E9%9D%A2-%E8%BE%93%E5%85%A5%E6%A1%86-473x1024.png)
-   ![主页](https://www.lucaszy.com/wp-content/uploads/2020/07/6_%E4%B8%BB%E9%A1%B5-473x1024.png)
+        ![主页](https://www.lucaszy.com/wp-content/uploads/2020/07/6_主页.png)
    
    ### (3)主要页面
    ![导航界面](https://www.lucaszy.com/wp-content/uploads/2020/07/4_%E5%AF%BC%E8%88%AA%E9%A1%B5-473x1024.png)
