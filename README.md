@@ -108,7 +108,7 @@
    ### (1)启动页面
    ![启动页](https://www.lucaszy.com/wp-content/uploads/2020/07/1_启动页.png)
    ### (2)核心页面
-   ![聊天页面](https://www.lucaszy.com/wp-content/uploads/2020/07/7_聊天页面.png)
+   ![聊天页面](/臻选美食界面/7_聊天页面.png)
    ![聊天页面-输入界面](https://www.lucaszy.com/wp-content/uploads/2020/07/3_聊天页面-输入框.png)
    ![主页](https://www.lucaszy.com/wp-content/uploads/2020/07/6_主页.png)
    ### (3)主要页面
