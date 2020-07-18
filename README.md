@@ -137,3 +137,12 @@
    对该APP提出自己的优化建议，也可以通过设置按钮修改文字大小、切换界面主题
    ## 九.数据使用及其价值
    ![数据使用及其价值](https://www.lucaszy.com/wp-content/uploads/2020/07/%E6%95%B0%E6%8D%AE%E4%BB%B7%E5%80%BC%E5%8F%8A%E7%94%A8%E9%80%94.png)
+   ## 十.心得及总结
+   ### 心得
+   1. 设计app一个需要考量不仅仅是技术上的问题更重要的是商业价值、社会价值，人文价值
+   2. 产品设计上要以用户为中心，从用户角度出发，不能根据自己的想法去设计，产品功能不堆砌，否则产品的价值就不大
+   ### 使用的资源
+   1. [图灵机器人（ 智能回复微信）及（智能聊天）](https://blog.csdn.net/cungudafa/article/details/88872711)
+   2. [Python 使用图灵机器人时 返回4001错误](https://blog.csdn.net/hellokandy/article/details/91043750)
+   3. [使用Python与图灵机器人聊天](https://segmentfault.com/a/1190000013900291)
+   
