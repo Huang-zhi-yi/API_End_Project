@@ -90,6 +90,17 @@
    ![结构图](https://www.lucaszy.com/wp-content/uploads/2020/07/%E5%8A%9F%E8%83%BD%E5%9B%BE-1-1024x427.png)
       2. 数据流程介绍(数据流程图)
    ![数据流程图](https://www.lucaszy.com/wp-content/uploads/2020/07/%E6%95%B0%E6%8D%AE%E6%B5%81%E7%A8%8B%E5%9B%BE-1024x233.png)
+      3. 数据推理
+      	序|页面
+     	---|:--
+	问题1|我们在页面上呈现什么内容？
+	回答1|用户与图灵机器人的对话内容；为用户推荐的餐厅及其基本情况介绍。
+	问题2|向用户输出的结果内容从哪里来
+	回答2|去开放平台调用api，获得结果内容.
+	问题3|请求从哪里来
+	回答3|用户发送语音或者文字；后台自动推荐。
+	问题4|如果页面出现识别错误，应该如何获取并处理数据，正确数据的信息从哪里来
+	回答4|通过用户的反馈进行信息获取，通过用户的自愿反馈扩大数据库，强化机器学习
    ## 六.产品竞品分析
    ### (1) 竞品的战略定位
    ![竞品的战略定位](https://www.lucaszy.com/wp-content/uploads/2020/07/竞品分析.png)
@@ -141,8 +152,13 @@
    ### 心得
    1. 设计app一个需要考量不仅仅是技术上的问题更重要的是商业价值、社会价值，人文价值
    2. 产品设计上要以用户为中心，从用户角度出发，不能根据自己的想法去设计，产品功能不堆砌，否则产品的价值就不大
+   3. 本文档的写作使得本人在“API机器学习与人工智能”有更好的理解与认识。无论是线下课还是线上课，本节课老师都费尽心思去教学，让我们实操与理解相结合。在本次文档中，特别感谢“大风吹”中各位同学的建议，与此感谢网新老师的用心，也再次感谢图灵机器人、高德地图开放平台与百度AI开放平台提供的api技术支持。
    ### 使用的资源
    1. [图灵机器人（ 智能回复微信）及（智能聊天）](https://blog.csdn.net/cungudafa/article/details/88872711)
    2. [Python 使用图灵机器人时 返回4001错误](https://blog.csdn.net/hellokandy/article/details/91043750)
    3. [使用Python与图灵机器人聊天](https://segmentfault.com/a/1190000013900291)
-   
+   4. [百度AI攻略：对话情绪识别](https://blog.csdn.net/hawkman/article/details/103727625)
+   5. [微信小程序使用高德地图（amap）实现检索定位附近周边的POI功能示例](https://blog.csdn.net/qq15577969/article/details/103401841)
+   6. [Android Study 之玩转高德地图二部曲[实现POI检索附近]](https://www.jianshu.com/p/c46028acd8d8)
+   7. [利用高德地图关键字检索POI-实现仿微信发朋友圈搜索附近位置](https://blog.csdn.net/alpha58/article/details/57079874/)
+   8. [高德地图poi全国搜索](https://blog.csdn.net/lzq520210/article/details/70571564)
